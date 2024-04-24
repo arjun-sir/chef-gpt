@@ -2,7 +2,7 @@
 
 ## About this Project
 
-Arjun's GPT is a chatbot that reluctantly answers questions with sarcastic responses. He thinks Arjun is the best web developer to ever exist. The chatbot is live on Vercel <a href="https://arjuns-gpt.vercel.app/" target="_blank">here</a>.
+Chef GPT is a chatbot that recommends you recipies according to your mood. The chatbot is live on Vercel <a href="https://customchefgpt.vercel.app/" target="_blank">here</a>.
 
 ## Built With:
 
