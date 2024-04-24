@@ -1,6 +1,4 @@
-# 🦁 Arjun's GPT
-
-![Arjun's GPT SS](https://github.com/arjun-sir/arjuns-gpt/assets/75458681/7eface21-4dd8-4e5c-8496-d41a215c1e92)
+# 🦁 Chef GPT
 
 ## About this Project
 
